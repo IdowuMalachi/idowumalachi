@@ -28,7 +28,7 @@ As a versatile data scientist with over 7 years of experience, I specialize in b
 📌 **[Skin Cancer SQL Analysis](https://github.com/idowumalachi/SkinCancer-Data-sql-Project)**  
 Exploratory and statistical data modeling using PostgreSQL for patient-lesion cancer data.
 
-📌 **[Power BI Dashboard – Hospital Transactions](https://github.com/idowumalachi/mother-child-powerbi-dashboard)**  
+📌 **[Power BI Dashboard – Hospital Transactions]([https://github.com/idowumalachi/mother-child-powerbi-dashboard](https://github.com/IdowuMalachi/Mother-and-Child-Hospital-Transaction/commits?author=IdowuMalachi))**  
 Interactive Power BI dashboards analyzing multi-specialty hospital revenues, procedures, and doctor KPIs.
 
 📌 **[KNIME Classification Project (SVM vs MLP)](https://github.com/idowumalachi/knime-classification-svm-mlp)**  
