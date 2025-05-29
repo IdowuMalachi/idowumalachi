@@ -15,11 +15,14 @@ As a versatile data scientist with over 7 years of experience, I specialize in b
 
 ### 🔧 Tech Stack
 
-- **Languages**: Python, SQL, DAX, SAS, R  
-- **Tools**: Power BI, Tableau, KNIME, Excel, SAP, Affinity, Salesforce  
-- **Concepts**: Predictive Modeling, A/B Testing, Data Governance, Forecasting, Feature Engineering  
+- **Programming Languages**: Python, SQL, DAX, SAS, R  
+- **Data Tools**: Power BI, Tableau, KNIME, Excel, SAP, Affinity, Salesforce  
+- **Concepts**: Predictive Modeling, AI & ML, A/B Testing, Data Governance, Forecasting, Feature Engineering  
 - **Pipelines**: ETL Design, Data Warehousing, Process Automation  
-- **Soft Skills**: Stakeholder Engagement, Agile, Strategy, Communication  
+- **Soft Skills**: Stakeholder Engagement, Agile, Strategy, Communication
+- **Big Data Technologies**: Apache Hadoop, Apache Spark, Apache Kafka
+- **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+- **Project Management**: Jira, Trello
 
 ---
 
