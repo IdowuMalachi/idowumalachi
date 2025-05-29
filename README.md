@@ -37,7 +37,8 @@ Machine learning classification in KNIME with model comparison, optimization, an
 📌 **[Image Classification in CNN (Keras,CNN + Tensor flow)](https://github.com/IdowuMalachi/CNN-image-classification-in-knime)**  
 This project uses a Convolutional Neural Network (CNN) built in KNIME to classify handwritten digits from the MNIST dataset. It showcases low-code deep learning with over 98% model accuracy.
 
----
+📌 **[Analysis and Forecast of Road accident (Excel)](https://github.com/IdowuMalachi/Excel-Analysis-on-Road-Accident)**  
+This capstone project demonstrates the power of Excel and Power BI in turning raw, unstructured accident records into a clear, interactive dashboard that informs real policy decisions. From cleaning to forecasting, the full analytics pipeline was executed with precision.
 
 ### 🌍 Let’s Connect
 
