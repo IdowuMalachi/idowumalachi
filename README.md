@@ -34,7 +34,7 @@ Interactive Power BI dashboards analyzing multi-specialty hospital revenues, pro
 📌 **[KNIME Classification Project (SVM vs MLP)](https://github.com/IdowuMalachi/SVM-MLP-Machine-Learning--KNIME...)**  
 Machine learning classification in KNIME with model comparison, optimization, and PMML export.
 
-📌 **[Retail Credit Scoring (Python + SQL)](https://github.com/idowumalachi/retail-credit-ml-scorer)**  
+📌 **[Image Classification in CNN (Keras,CNN + Tensor flow)](https://github.com/IdowuMalachi/CNN-image-classification-in-knime)**  
 End-to-end credit scoring system from feature engineering to deployment, for retail banking.
 
 ---
