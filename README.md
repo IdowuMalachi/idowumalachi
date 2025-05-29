@@ -31,7 +31,7 @@ Exploratory and statistical data modeling using PostgreSQL for patient-lesion ca
 📌 **[Power BI Dashboard – Hospital Transactions](https://github.com/IdowuMalachi/Mother-and-Child-Hospital-Transaction)**  
 Interactive Power BI dashboards analyzing multi-specialty hospital revenues, procedures, and doctor KPIs.
 
-📌 **[KNIME Classification Project (SVM vs MLP)](https://github.com/idowumalachi/knime-classification-svm-mlp)**  
+📌 **[KNIME Classification Project (SVM vs MLP)](https://github.com/IdowuMalachi/SVM-MLP-Machine-Learning--KNIME...)**  
 Machine learning classification in KNIME with model comparison, optimization, and PMML export.
 
 📌 **[Retail Credit Scoring (Python + SQL)](https://github.com/idowumalachi/retail-credit-ml-scorer)**  
