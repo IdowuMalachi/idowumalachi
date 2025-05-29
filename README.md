@@ -35,7 +35,7 @@ Interactive Power BI dashboards analyzing multi-specialty hospital revenues, pro
 Machine learning classification in KNIME with model comparison, optimization, and PMML export.
 
 📌 **[Image Classification in CNN (Keras,CNN + Tensor flow)](https://github.com/IdowuMalachi/CNN-image-classification-in-knime)**  
-End-to-end credit scoring system from feature engineering to deployment, for retail banking.
+This project uses a Convolutional Neural Network (CNN) built in KNIME to classify handwritten digits from the MNIST dataset. It showcases low-code deep learning with over 98% model accuracy.
 
 ---
 
