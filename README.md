@@ -1,3 +1,5 @@
+<img src="https://github.com/IdowuMalachi/idowumalachi/blob/main/Dami.JPG?raw=true" width="180" alt="Idowu Malachi profile photo">
+
 <h1 align="center">Hi 👋, I'm Idowu Malachi</h1>
 <h3 align="center">Senior Data Scientist | BI & AI Expert | Data Governance Strategist</h3>
 
